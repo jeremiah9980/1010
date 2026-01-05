@@ -60,7 +60,7 @@ jobs:
     name: With HACS Action
     steps:
       - name: HACS validation
-        uses: hacs/action@94334b7ff014b150ad280ca09a20fa43f858c544 # main
+        uses: hacs/action@6f81caf1dd4cc0f615444dba4d4a3ceaa22db99c # main
         with:
           category: integration
 
